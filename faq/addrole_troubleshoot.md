@@ -1,12 +1,12 @@
 Hey, this article will guide you through everything you need to know about Quotient's addrole command. This will also help you to troubleshoot any possible
-issues you are facing while using Quotient's add role command.</br></br>
+issues you are facing while using Quotient's add role command. </br></br>
 
-**What is Quotient's addrole command?**</br></br>
+**What is Quotient's addrole command?** </br></br>
 
 `addrole` or `role` is a simple command that helps you give a role to one or multiple users very easily, you can also use this command to give a role to 
-all human or bot users in your server. Isn't this good?</br></br>
+all human or bot users in your server. Isn't this good? </br></br>
 
-Command Structure:</br>
+Command Structure: </br>
 ```
 [addrole|role]
 |
@@ -21,7 +21,7 @@ Command Structure:</br>
 ![image](https://user-images.githubusercontent.com/72350242/125024997-7575ac00-e09f-11eb-8ba8-626430c38009.png)
 
 </br></br>
-**How do I add a role to multiple users with a single command?**</br></br>
+**How do I add a role to multiple users with a single command?** </br></br>
 If you have a role that you want to give to certain number of users, you can simply do:
 `qaddrole @role @member1 @member2 @member3`.</br>
 Note that you must provide a space between all the user mentions for the command to work accurately.</br></br>
