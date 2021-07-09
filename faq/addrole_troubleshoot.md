@@ -44,6 +44,6 @@ you are good to go.
 but you just can't see it because of discord's glitch. you can verify this by going to your server's audit log and checking if Quotient gave any role to that user. If
 this was the case, this is just discord's bug and there's nothing I can do about this. QUOTIENT DOESN'T HAVE ANYTHING TO DO WITH THIS.
 
-If this article doesn't help you , kindly come and talk to me in the [Support Server](https://quotientbot.xyz/support).
+If this article doesn't help you , kindly come and talk to me in the [Support Server](https://quotientbot.xyz/support).</br></br>
 
 Thank you.
