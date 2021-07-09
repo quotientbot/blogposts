@@ -8,7 +8,7 @@ all human or bot users in your server. Isn't this good? </br></br>
 
 Command Structure: </br>
 ```
-[addrole|role]
+[addrole|role] </br>
 |
 └───── humans
 |
@@ -38,9 +38,11 @@ Just click on the check mark and then let Quotient do all the heavy stuff for yo
 
 **I used the addrole command but it just doesn't work. What do I do?**</br></br>
 - Maybe you forgot to add spaces between users while using the commannd. What I mean is you have to use the addrole command like this `qaddrole @role @member1 @member2...`</br>
-but what you did is `qaddrole @role @member1@member2@meber3..` -> No space between user mentions, if you did this, kindly add a space between all user mentions and you are good to go. </br>
+but what you did is `qaddrole @role @member1@member2@meber3..` -> No space between user mentions, if you did this, kindly add a space between all user mentions and you are good to go. </br> </br>
 
-- If you did the above thing right and you still don't see that role in some user's profile, it's most probably because of a discord glitch. They actually have the role but you just can't see it because of discord's glitch. you can verify this by going to your server's audit log and checking if Quotient gave any role to that user. If this was the case, this is just discord's bug and there's nothing I can do about this. QUOTIENT DOESN'T HAVE ANYTHING TO DO WITH THIS.</br></br>
+- If you did the above thing right and you still don't see that role in some user's profile, it's most probably because of a discord glitch. They actually have the role but you just can't see it because of discord's glitch. you can verify this by going to your server's audit log and checking if Quotient gave any role to that user. If this was the case, this is just discord's bug and there's nothing I can do about this. </br> 
+
+QUOTIENT DOESN'T HAVE ANYTHING TO DO WITH THIS.</br></br>
 
 If this article doesn't help you , kindly come and talk to me in the [Support Server](https://quotientbot.xyz/support).</br></br>
 
