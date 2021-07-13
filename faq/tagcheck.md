@@ -4,14 +4,13 @@
 - What is Quotient's tagcheck?
 - How do I setup tagcheck?
 - How to setup tagcheck channel with required mentions?
-- How to setup autodelete in tagcheck?
+- How to setup autodelete in tagcheck? <br/>
 
-This article explains about everything you want to know about Quotient's tagcheck system.
+This article explains about everything you want to know about Quotient's tagcheck system. <br/>
 
-Quotient's Tagcheck has proven to be a very useful functionality for esports servers who host regular scrims or tournaments. It basically allows you to setup tagchecks in a channel where users will then paste their registration formats and Quotient will accept or deny their formats according to the number of required mentions. 
+Quotient's Tagcheck has proven to be a very useful functionality for esports servers who host regular scrims or tournaments. It basically allows you to setup tagchecks in a channel where users will then paste their registration formats and Quotient will accept or deny their formats according to the number of required mentions. <br/>
 
-Command Structure:
-
+Command Structure: <br/>
 
 ```
 [tagcheck|tc]
@@ -24,10 +23,7 @@ Command Structure:
 |
 └───── autodelete
 ```
-
-
-![image](https://user-images.githubusercontent.com/72350242/125495587-0da4fbcc-902d-4b09-8dc5-00c66cfa5f90.png)
-
+<br/>
 
 - **tagcheck set #channel**: Set Quotient's tagcheck in the mentioned channel.
 - **tagcheck remove #channel**: Remove mentioned channel from tagcheck channels.
@@ -35,16 +31,19 @@ Command Structure:
 - **tagcheck autodelete #channel**: Enable/Disable auto delete wrong formats for a channel.
 
 
-Usage Example:
+Usage Example: <br/>
+
+<img src="https://user-images.githubusercontent.com/72350242/125495954-6669accb-6343-4272-aa3d-91ab8d628703.png" width="400" height="150">
+
+<!-- ![image](https://user-images.githubusercontent.com/72350242/125495954-6669accb-6343-4272-aa3d-91ab8d628703.png) -->
+
+<img src="https://user-images.githubusercontent.com/72350242/125495999-09bfcc76-084b-48d3-a26f-a4adff4cc5e0.png" width="400" height="250">
+
+<!-- ![image](https://user-images.githubusercontent.com/72350242/125495999-09bfcc76-084b-48d3-a26f-a4adff4cc5e0.png) -->
 
 
-![image](https://user-images.githubusercontent.com/72350242/125495954-6669accb-6343-4272-aa3d-91ab8d628703.png)
 
-![image](https://user-images.githubusercontent.com/72350242/125495999-09bfcc76-084b-48d3-a26f-a4adff4cc5e0.png)
-
-
-
-**FAQ**
+**FAQ** <br/>
 
 
 1. What is **quotient-tag-ignore**? <br/>
@@ -64,4 +63,4 @@ If you already have a tagcheck channel and you want to change its required menti
 
 4. Can I set multiple tagcheck channels in one server? <br/>
 Ans. Yes you can set unlimited tagcheck channels in a server if you have Quotient Premium. If you are on free tier, you only set 1 tagcheck channel.
-You can Quotient Premium here: https://quotientbot.xyz/premium
+You can Quotient Premium here: https://quotientbot.xyz/premium <br/>
