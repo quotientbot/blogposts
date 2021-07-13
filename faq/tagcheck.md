@@ -3,7 +3,7 @@ Quotient's Tagcheck has proven to be a very useful functionality for esports ser
 Command Structure:
 
 ```
-[tagcheck|tc] </br>
+[tagcheck|tc]
 |
 └───── set
 |
