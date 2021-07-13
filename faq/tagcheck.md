@@ -1,6 +1,17 @@
+
+**Do you have any of the following questions?**
+
+- What is Quotient's tagcheck?
+- How do I setup tagcheck?
+- How to setup tagcheck channel with required mentions?
+- How to setup autodelete in tagcheck?
+
+This article explains about everything you want to know about Quotient's tagcheck system.
+
 Quotient's Tagcheck has proven to be a very useful functionality for esports servers who host regular scrims or tournaments. It basically allows you to setup tagchecks in a channel where users will then paste their registration formats and Quotient will accept or deny their formats according to the number of required mentions. 
 
 Command Structure:
+
 
 ```
 [tagcheck|tc]
@@ -14,6 +25,7 @@ Command Structure:
 └───── autodelete
 ```
 
+
 ![image](https://user-images.githubusercontent.com/72350242/125495587-0da4fbcc-902d-4b09-8dc5-00c66cfa5f90.png)
 
 
@@ -22,14 +34,18 @@ Command Structure:
 - **tagcheck config**: Get Quotient's tagcheck configuration for the server.
 - **tagcheck autodelete #channel**: Enable/Disable auto delete wrong formats for a channel.
 
+
 Usage Example:
+
 
 ![image](https://user-images.githubusercontent.com/72350242/125495954-6669accb-6343-4272-aa3d-91ab8d628703.png)
 
 ![image](https://user-images.githubusercontent.com/72350242/125495999-09bfcc76-084b-48d3-a26f-a4adff4cc5e0.png)
 
 
+
 **FAQ**
+
 
 1. What is **quotient-tag-ignore**? <br/>
 Ans. It is a role created by Quotient when you setup tagchecks, you can give this role to any user whose messages you want to be ignored in tagcheck channels. Means if you give it to yourself and then you send a message in tagcheck channel, Quotient will ignore your message.
